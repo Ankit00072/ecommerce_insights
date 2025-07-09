@@ -10,7 +10,7 @@ This project analyzes transaction data from an online retail store to uncover pr
 |------------------------------|------------------------------------------------------|
 | `ecommerce_insights.ipynb`   | Jupyter Notebook with full analysis and charts       |
 | `data.csv`                   | Transaction dataset (from UCI Online Retail dataset) |
-| `README.md`                  | Project overview and instructions                    |
+| `archive(4).zip`             | data.csv is too big that's why this zip file         |
 
 ---
 
